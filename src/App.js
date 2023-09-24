@@ -5,8 +5,9 @@ import Search from "./Search";
 export default function App() {
   return (
     <div className="App">
-      <h1>Weather App Search</h1>
-
+   <a href="https://github.com/Revontulten/laughing-wave-2k3p8h.git">
+        GitHub Repository
+      </a>
       <Search />
     </div>
   );
